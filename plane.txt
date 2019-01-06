@@ -1,0 +1,7 @@
+Airbus A310 183
+Airbus A320 149
+Airbus A330 440
+Boeing 737 114
+Boeing 747 364
+Boeing 767 252
+Boeing 777 218 
